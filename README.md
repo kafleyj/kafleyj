@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Jeevan Kaphle</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h4 text-align: left;">
+
+I am Jeevan  and my passion for building machine-learning solutions has made me pick machine-learning engineering as a career. I had done some academic projects as well as self-projects. I have been working with machine learning, deep learning, computer vision, and machine learning. Currently, I am just a student with a lot of time to work on my repo and I will be updating my repo on a regular basis. </h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaflej&label=Profile%20views&color=0e75b6&style=flat" alt="kaflej" /> </p>
