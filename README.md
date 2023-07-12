@@ -17,14 +17,15 @@ I am Jeevan  and my passion for building machine-learning solutions has made me 
 
 - 📫 How to reach me **kafleyj55@gmail.com**
 
-- 📄 Know about my experiences [I worked as a frontend developer as intern in a US based software company here in Nepal.](I worked as a frontend developer as intern in a US based software company here in Nepal.)
-
-- ⚡ Fun fact **I think i am funny residing jokes and much more i love travelling to new places and hanging out with friends.**
+- 📄 Know about my experiences I worked as a frontend developer as an intern in a US-based software company here in Nepal.
+- ⚡ Fun fact **I think I am funny residing jokes and much more I love traveling to new places and hanging out with friends.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/jeevan kaphle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeevan kaphle" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jeevan.kaphle.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeevan kaphle" height="30" width="40" /></a>
 <a href="https://instagram.com/kaafley77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaafley77" height="30" width="40" /></a>
+<a href="https://np.linkedin.com/in/jeevan-kaphle-7b8017213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="kaafley77" height="30" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
