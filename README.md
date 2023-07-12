@@ -13,6 +13,8 @@ I am Jeevan  and my passion for building machine-learning solutions has made me 
 
 - 👯 I worked to on **Nepali Handwritten Text Recognition**
 
+-  📄 Find my GitHub Portfolio [https://kafleyj.github.io](https://kafleyj.github.io)
+
 - 👨‍💻 All of my projects are available at [https://github.com/kafleyj](https://github.com/kafleyj)
 
 - 📫 How to reach me **kafleyj55@gmail.com**
@@ -24,8 +26,6 @@ I am Jeevan  and my passion for building machine-learning solutions has made me 
 <p align="left">
 <a href="https://www.facebook.com/jeevan.kaphle.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeevan kaphle" height="30" width="40" /></a>
 <a href="https://instagram.com/kaafley77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaafley77" height="30" width="40" /></a>
-<a href="https://np.linkedin.com/in/jeevan-kaphle-7b8017213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="kaafley77" height="30" width="40" /></a>
-</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
