@@ -17,7 +17,7 @@ AI/ML integrations. </h3>
 
 -Open to Work
 
--  📄 Find my GitHub Portfolio [https://kafleyj.github.io/Portfolio/]
+-  📄 Find my GitHub Portfolio [https://kafleyj.github.io/My-Portfolio/]
 - 👨‍💻 All of my projects are available at [https://github.com/kafleyj](https://github.com/kafleyj)
 
 - 📫 How to reach me **kafleyj55@gmail.com**
